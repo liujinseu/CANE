@@ -17,7 +17,7 @@ Run the following command for training CANE:
     python train.py
 
 ## Dependencies
-* Tensorflow == 0.12
+* Tensorflow == 1.12
 * Scipy == 0.18.1
 * Numpy == 1.11.2
 
